@@ -14,9 +14,8 @@
 ## 📦 安装
 
 1. 确保浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展
-2. 点击 Tampermonkey 图标 → **添加新脚本**
-3. 将 `单击转为超链接-1.0.user.js` 的内容粘贴进去
-4. 保存（`Ctrl+S`），脚本即生效
+2. 访问[此链接](https://greasyfork.org/zh-CN/scripts/589285-%E5%8D%95%E5%87%BB%E8%BD%AC%E4%B8%BA%E8%B6%85%E9%93%BE%E6%8E%A5)
+3. 安装脚本
 
 ## 🔎 识别规则
 
